@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **HTML CSS JavaScript Bootstrap**
+- 💬 Ask me about **HTML CSS JavaScript Bootstrap React**
 
 - 📫 How to reach me **anjalitadiyal5@gmail.com**
 
