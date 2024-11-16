@@ -15,7 +15,7 @@
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" alt="css3" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/853/331/png-transparent-jquery-javascript-library-html-scripting-jquery-logo-frontend-web-applications-3d-icon-thumbnail.png" alt="css3" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Framework:</h3>
